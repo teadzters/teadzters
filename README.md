@@ -1,1 +1,1 @@
-https://github.com/antonkomarev/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=s7ri)
